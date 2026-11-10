@@ -6,9 +6,12 @@ Application Windows 64 bits pour préparer des PDF d’impression de jeux sur le
 
 ## Télécharger la version 0.0.1
 
+- [Télécharger le ZIP complet (EXE, exemple, instructions et licence)](https://github.com/lalyre/CrescendoPrinter-Releases/releases/download/v0.0.1/CrescendoPrinter-0.0.1.zip)
 - [Télécharger CrescendoPrinter.exe](https://github.com/lalyre/CrescendoPrinter-Releases/releases/download/v0.0.1/CrescendoPrinter.exe)
 - [Notes de version et fichiers joints](https://github.com/lalyre/CrescendoPrinter-Releases/releases/tag/v0.0.1)
 - [Fichier d’exemple : six jeux pour deux pages](exemples/jeux-crescendo.txt)
+
+Pour le ZIP, extraire tous les fichiers puis suivre `LISEZMOI.txt`.
 
 Aucune installation de Python n’est nécessaire. Télécharger l’EXE, puis le lancer.
 
